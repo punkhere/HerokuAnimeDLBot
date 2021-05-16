@@ -18,7 +18,7 @@ def anime_search(client, message):
     query = str.join(q1)
     if query == "":
         # If no query string is mentioned
-        message.reply_animation("https://media.tenor.com/images/cfe564edcb140705ce45aeeca8183812/tenor.gif",
+        message.reply_animation("https://telegra.ph/file/29bc6ff5c754966ae7da5.mp4",
                                 caption=f"""**Your Query should be in This format:** 
 
 `/search <space> Name of the Anime you want to Search.`""", parse_mode="markdown")
