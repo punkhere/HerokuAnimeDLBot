@@ -16,8 +16,6 @@ def start_message(client, message):
     pic_url = "https://drive.google.com/file/d/1TzmuSj05qF6Sm5Z_CSm3AGUCBx4Oe0F0/view?usp=sharing"
     message.reply_photo(pic_url, caption=f"""**Hi {message.chat.first_name}**,
 
-Welcome to Anime DL Bot, Here you can Download all Anime for FREE 😁!!!
-
-__Please read all the instructions about the bot before surfing on...__
-
-See /whats_new to know about latest updates...""", reply_markup=reply_markup, parse_mode="markdown")
+𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓣𝓮𝓵𝓮𝓰𝓻𝓪𝓶 𝓐𝓷𝓲𝓶𝓮 𝓢𝓽𝓮𝓻𝓪𝓶 𝓫𝓸𝓽, 𝓗𝓮𝓻𝓮 𝔂𝓸𝓾 𝓬𝓪𝓷 𝓓𝓸𝔀𝓷𝓵𝓸𝓪𝓭 𝓪𝓵𝓵 𝓐𝓷𝓲𝓶𝓮 𝓯𝓸𝓻 𝓕𝓡𝓔𝓔 😁
+!!!  __𝓟𝓵𝓮𝓪𝓼𝓮 𝓻𝓮𝓪𝓭 𝓪𝓵𝓵 𝓽𝓱𝓮 𝓲𝓷𝓼𝓽𝓻𝓾𝓬𝓽𝓲𝓸𝓷𝓼 𝓪𝓫𝓸𝓾𝓽 𝓽𝓱𝓮 𝓫𝓸𝓽 𝓫𝓮𝓯𝓸𝓻𝓮 𝓼𝓾𝓻𝓯𝓲𝓷𝓰 𝓸𝓷...__  
+𝓢𝓮𝓮 /whats_new 𝓽𝓸 𝓴𝓷𝓸𝔀 𝓪𝓫𝓸𝓾𝓽 𝓵𝓪𝓽𝓮𝓼𝓽 𝓾𝓹𝓭𝓪𝓽𝓮𝓼...""", reply_markup=reply_markup, parse_mode="markdown")
