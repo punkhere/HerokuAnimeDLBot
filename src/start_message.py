@@ -13,7 +13,7 @@ def start_message(client, message):
         [InlineKeyboardButton("Instructions", callback_data="instructions")],
     ]
     reply_markup = InlineKeyboardMarkup(kkeeyyb)
-    pic_url = "https://drive.google.com/file/d/1TzmuSj05qF6Sm5Z_CSm3AGUCBx4Oe0F0/view?usp=sharing"
+    pic_url = "https://telegra.ph/file/78cea0262bb3b20ebf85a.jpg"
     message.reply_photo(pic_url, caption=f"""**Hi {message.chat.first_name}**,
 
 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓣𝓮𝓵𝓮𝓰𝓻𝓪𝓶 𝓐𝓷𝓲𝓶𝓮 𝓢𝓽𝓮𝓻𝓪𝓶 𝓫𝓸𝓽, 𝓗𝓮𝓻𝓮 𝔂𝓸𝓾 𝓬𝓪𝓷 𝓓𝓸𝔀𝓷𝓵𝓸𝓪𝓭 𝓪𝓵𝓵 𝓐𝓷𝓲𝓶𝓮 𝓯𝓸𝓻 𝓕𝓡𝓔𝓔 😁
