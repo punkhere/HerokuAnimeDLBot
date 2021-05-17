@@ -19,6 +19,6 @@ Language: [Python3](https://www.python.org/)
 
 Bot Framework: [Pyrogram Asyncio](https://github.com/pyrogram/pyrogram)
 
-Server: <YOUR_SERVER_NAME>
+Server: herku
 
 Please share the bot if you like it 👍👍""", reply_markup=reply_markup, parse_mode="markdown")
