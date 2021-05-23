@@ -14,8 +14,7 @@ def dev_info(client, message):
     ]
     reply_markup = InlineKeyboardMarkup(keyb)
     message.reply_text("""Made with ❤️ in 🇮🇳 by @Amalbiju154.
-    
-Made with ❤️ in 🇮🇳 by @Amalbiju154.
+  
 
 Language: Python3
 
