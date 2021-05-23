@@ -10,15 +10,19 @@ from pyrogram.types import *
 
 def dev_info(client, message):
     keyb = [
-        [InlineKeyboardButton("Update channel ", url="https://t.me/Animemusicarchive6")]
+        [InlineKeyboardButton("join for updates ", url="https://t.me/Animemusicarchive6")]
     ]
     reply_markup = InlineKeyboardMarkup(keyb)
     message.reply_text("""Made with ❤️ in 🇮🇳 by @Amalbiju154.
+    
+Made with ❤️ in 🇮🇳 by @Amalbiju154.
 
-Language: [Python3](https://www.python.org/)
+Language: Python3
 
-Bot Framework: [Pyrogram Asyncio](https://github.com/pyrogram/pyrogram)
+Bot Framework: Pyrogram Asyncio
 
 Server: herku
+
+Credits: @cosmicpredator
 
 Please share the bot if you like it 👍👍""", reply_markup=reply_markup, parse_mode="markdown")
