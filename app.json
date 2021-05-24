@@ -1,5 +1,5 @@
 {
-    "name": "Anime-DL-Bot",
+    "name": "HerokuAnimeDLBot",
     "description": "A Telegram Bot to get All Anime Download links (Dubbed and Subbed)",
     "logo": "https://telegra.ph/file/6481e6c7f9946e2ba9d15.jpg",
       "keywords": [
@@ -9,7 +9,7 @@
       "watch",
       "Anime Download"
     ],
-    "repository": "https://github.com/BaraniARR/Anime-DL-Bot",
+    "repository": "",
     "env": {
       "api_id": {
         "description": "Api Hash Here",
