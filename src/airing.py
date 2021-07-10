@@ -14,7 +14,7 @@ import sys
 # Returns an "Inline Keyboard List" of Currently airing Anime
 
 def airing_eps(client, message):
-    url = f"https://gogoanime.ai/"
+    url = f"https://gogoanime.pe/"
     session = HTMLSession()
     response = session.get(url)
     response_html = response.text
